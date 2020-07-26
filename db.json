@@ -1,16 +1,302 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment goes here", "postId": 1 },
-    { "id": 3, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "flyingsonu122"
+[
+  {
+    "wish": "A festival full of sweet childhood memories, A sky full of lights, Mouth full of sweets, And heart full of joy. Wishing You All A Very Happy Diwali!"
+  },
+  {
+    "wish": "May the light of the diyas guide you on the way to happiness and success. Happy Diwali to you and your family!"
+  },
+  {
+    "wish": "May the light of the diyas guide you on the way to happiness and success. Happy Diwali to you and your family!"
+  },
+  {
+    "wish": "With Gleam of Diyas, And the Echo of the Chants, May Happiness and Contentment Fill Your life! Wishing you a very happy and prosperous Diwali!"
+  },
+  {
+    "wish": "May the beauty of Deepavali fill your home with happiness, and may the coming year provide you with everything that brings you joy!"
+  },
+  {
+    "wish": "Let's make this Diwali joyous and bright, Let's celebrate in true sense this festival of light. Happy Diwali"
+  },
+  {
+    "wish": "Another year will be over, another year will come. I hope and pray that the lights of Diwali illuminate the new chapter of your life. Happy Diwali!"
+  },
+  {
+    "wish": "May this Diwali bring you happiness and prosperity. Happy Diwali"
+  },
+  {
+    "wish": "May thousand of lamps light up your life with endless happiness, richness, health and wealth forever wishing you and your family a very Happy Diwali."
+  },
+  {
+    "wish": "Sky full of fireworks, mouth full of sweets. House full of diyas & heart full of joy. We Wish You A Happy Deepawali!"
+  },
+  {
+    "wish": "Warm wishes to you and your family on the occasion of Diwali! May the auspicious festival of lights, beautifully illuminate every corner of your life by adding sparkling moments of love, happiness, success, and joy. May you enjoy this festival with your loved ones with high spirits."
+  },
+  {
+    "wish": "May you be blessed with happiness and well being to last through the year. Happy Diwali!"
+  },
+  {
+    "wish": "Diwali is a magical time to celebrate with loved ones. May you get to create special memories with the ones you love, this Diwali. Best wishes!"
+  },
+  {
+    "wish": "A festival full of sweet memories, a sky full of fireworks, mouth full of sweets, a house full of diyas and heart full of enjoyment. ― Happy Deepawali!"
+  },
+  {
+    "wish": "Many good wishes to you on Diwali! Our lives become beautiful when we put our heart into whatever we do. May the Diwali offer you prosperity, Health, and Wealth."
+  },
+  {
+    "wish": "Diwali nights of is full of lights, crackers may your life be filled with colors and happiness. Happy Diwali!!"
+  },
+  {
+    "wish": "May the joy, cheer, and merriment of this divine festival surround you forever. May the happiness, that this season brings Happy Diwali!"
+  },
+  {
+    "wish": "This Diwali I wish all your dreams come true and may god filled your life with happiness. and make your Diwali is the most memorable Deepavali.!! ― Happy Deepawali!"
+  },
+  {
+    "wish": "I hope the day has been blessed with the presence of those you love most, and many magical moments! ― Happy Deepawali"
+  },
+  {
+    "wish": "May the Divine Light of Diwali spread into your life Peace, Prosperity, Happiness, and Good Health. ― Happy Deepawali! "
+  },
+  {
+    "wish": "May the light of Diwali fill your home with the light of joy and happiness. On this great day, I wish you a Happy Deepawali!"
+  },
+  {
+    "wish": "Have a prosperous Diwali. Hope this festival of lights, brings you every joy and happiness. ― Happy Deepawali!"
+  },
+  {
+    "wish": "I wish you a joyful year of prosperity Happy Diwali to you and your family."
+  },
+  {
+    "wish": "May this Diwali be held close to our hearts because its meaning never ends and the spirit of which is warmth and joy of remembering old friends! Happy Diwali.!"
+  },
+  {
+    "wish": "Sending you smiles for every moment of your special day. Have a wonderful time and a very Happy Diwali.!"
+  },
+  {
+    "wish": "May millions of lamps illuminate your life with endless prosperity, health, and wealth forever…wishes you & your family a very ― Happy Deepawali!"
+  },
+  {
+    "wish": "Happiness is in the air its Diwali everywhere, let’s show some love & care and wish everyone out there!"
+  },
+  {
+    "wish": "Wish you all a very Happy & safe Diwali !!! A joyful day for minds and hearts and souls."
+  },
+  {
+    "wish": "I am wishing that the bright lights of Diwali guide you through your way out of every streak of trials in this life. ― Happy Diwali!"
+  },
+  {
+    "wish": "This Diwali, let’s make our lives as beautiful and bright as the night sky filled with the brightness and light of a thousand fireworks. ― Happy Diwali!"
+  },
+  {
+    "wish": "This Diwali, may you be blessed with good fortune as long as Ganesha’s trunk, wealth and prosperity as big as his stomach, happiness as sweet as his ladoos and may your trouble be as small as his mouse. ― Happy Diwali!"
+  },
+  {
+    "wish": "A festival full of sweet childhood memories, a sky full of fireworks, mouth full of sweets, the house full of diyas and heart full of joy. ― Happy Diwali!"
+  },
+  {
+    "wish": "May this Diwali, you be blessed with good fortune – as long as Ganeshji’s trunk, wealth, and prosperity – as big as his stomach, happiness as sweet as his ladoo and troubles – as small as his mouse. Happy Diwali"
+  },
+  {
+    "wish": "May these fireworks burn all our problems, problems and sorrows, and can these light up our life with happiness, joy and peace that this lovely Diwali. Happy Diwali to you and to all of your loved ones!"
+  },
+  {
+    "wish": "May this Diwali bring you happiness and prosperity. May Goddess Lakshmi bless you and give you strength to achieve success in whatever you do. Have a Happy Diwali to you and your family! ― Happy Diwali!"
+  },
+  {
+    "wish": "Another year will be over, another year will come. I hope and pray that the lights of Diwali illuminate the new chapter of your life. ― Happy Diwali!"
+  },
+  {
+    "wish": "Lamp light every moment brought new light into your life, just wish for you this Diwali. Happy Deepawali!"
+  },
+  {
+    "wish": "Another year will be over, another will come. I hope and pray the lights of Diwali to illuminate the new chapter of your life. Happy Diwali"
+  },
+  {
+    "wish": "When you can make someone else smile, When you can be someone Ally. That’s when you can yourself be Glad. That’s when you will Have HAPPY DIWALI!!"
+  },
+  {
+    "wish": "Wish you all a Very Very Happy Diwali And Hope that Every Person transform from the Darkness to the happiness."
+  },
+  {
+    "wish": " We meditate on the glory of the creator, Who has created the Universe, Who is worthy of Worship, Who is the embodiment of Knowledge and Light, Who is a remover of all Sin and Ignorance. May he enlighten our Intellect. Happy Deepavali."
+  },
+  {
+    "wish": "May you have all the joy your heart can hold, All the smiles a day can bring, All the blessings a life can unfold, May you get the world’s best in everything. Wishing You Happy Deepavali."
+  },
+  {
+    "wish": "he sun does not shine there, nor do the moon and the stars, nor do bolts of lightning shine, All the lights of the world cannot be compared even to a ray of the inner light of the self. Merge yourself in this light of torches and Enjoy the supreme Deepavali."
+  },
+  {
+    "wish": "May you have all the joy your heart can hold, All the smiles a day can bring, All the blessings a life can unfold, May you get the world’s best in everything. Wishing You Happy Deepavali."
+  },
+  {
+    "wish": "May the warmth and splendor, that are a part of this auspicious occasion, fill your life with happiness and bright cheer, and bring to you joy and prosperity, for the whole year."
+  },
+  {
+    "wish": "May the festival of lights be the harbinger of joy and prosperity. As the holy occasion of Diwali is here and the atmosphere is filled with the spirit of mirth and love, here’s hoping this festival of beauty brings your way, bright sparkles of contentment, that stay with you through the days ahead."
+  },
+  {
+    "wish": "Have a prosperous Diwali. Hope this festival of lights, brings you every joy and happiness. May the lamps of joy, illuminate your life and fill your days with the bright sparkles of peace, mirth and goodwill, because you are someone who deserves life’s best and so much more. Have a joyous Diwali and New year."
+  },
+  {
+    "wish": "Rejoice on this blessed occasion by spreading joy with your friends and loved ones. Happy Diwali!"
+  },
+  {
+    "wish": "Fortunate is the one who has learned to Admire, but not to envy. Good Wishes for a joyous Diwali with a plenty of Peace and Prosperity."
+  },
+  {
+    "wish": "May Lord Ganesha and Goddess Laxmi, Fill your life with never-ending joy and happiness. Happy Diwali!"
+  },
+  {
+    "wish": "May this festival of lights, Brings lots of happiness and joy In your life! Happy Diwali! I am sending this sweet SMS Just to wish you HAPPY DIWALI…!!!"
+  },
+  {
+    "wish": "Remember happy memories of Diwali we have celebrated together. Looking forward to many more to come!"
+  },
+  {
+    "wish": "May your eyes sparkle with joy this Diwali!"
+  },
+  {
+    "wish": "I may be a thousand miles away from you, This Diwali, I’m sending my heartiest wishes to you and family. May all of you have blessed Diwali celebration!"
+  },
+  {
+    "wish": "May the light of Diyas illuminate your home and your life with endless harmony, joy, peace, and abundance. Have a prosperous Diwali!"
+  },
+  {
+    "wish": "A true and caring relation doesn’t have to speak loud, a soft SMS is just enough to express the heartiest feelings. Enjoy the festival of Diwali with lots of fun."
+  },
+  {
+    "wish": "may not be there to personally light our Diyas, But miles away, I am sending my most heartwarming Diwali greetings. Have a happy Diwali!"
+  },
+  {
+    "wish": "I hope this Diwali brings lots of luck to your life and fulfill all your dreams and desires. Happy Diwali"
+  },
+  {
+    "wish": "Just wanted to wish a little sunshine back into the heart of someone who gives it away all year long. Happy Diwali!"
+  },
+  {
+    "wish": "May Goddess Lakshmi enter your house this Diwali evening and fill it with wealth, good luck and prosperity. Happy Diwali!"
+  },
+  {
+    "wish": "Diwali is a festival full of sweet memories, a sky full of fireworks, a mouth full of sweets, a house full of diyas and a heart full of enjoyment! Happy Diwali!"
+  },
+  {
+    "wish": "May these rich blessings be due on you with some wealth of friendships, old & new. With some service rendered & some solace given and a gentle peace with God and heaven. Heartful wishes for you and your family on the eve of Diwali! Happy Diwali!"
+  },
+  {
+    "wish": "Doubt is like darkness and trust is like a light. There is no way one can destroy light by throwing darkness into it. So, let’s come together and enjoy the festival of lights. Happy Diwali!"
+  },
+  {
+    "wish": "Let this Diwali burn all your bad times and enter you in good times. Happy Diwali!"
+  },
+  {
+    "wish": "Since this is a special occasion when all the family and friends get together, for fun. Wishing a lot of amusement to cheer your days during this festive season. Happy Diwali!"
+  },
+  {
+    "wish": "This Diwali let us give thanks for all we hold dear: Our health, our family, our friends and to the grace of  God which never ends. Wishing you and your family a very Happy Diwali…"
+  },
+  {
+    "wish": "Shoot A Rocket Of Prosperity!. Blast A Chain Of Sorrow! Fire A Flowerpot Of Happiness! Light A Lamp Of Love!"
+  },
+  {
+    "wish": "Rejoice on this blessed occasion by spreading joy with your friends and loved ones. Happy Diwali 2018. May this Diwali be bright for you and your family. May God fulfill all your wishes this Diwali. Happy Diwali!"
+  },
+  {
+    "wish": "It’s Diwali everywhere, Happiness is in the air And wealth forever… And wish everyone out there Happy Diwali!!"
+  },
+  {
+    "wish": "May millions of lamps illuminate Your life with endless joy, prosperity, Wish You And Your Family “SPARKLING DIWALI"
+  },
+  {
+    "wish": "As the holy occasion of Diwali is here and the atmosphere is filled with the spirit of mirth and love, here’s hoping this festival of beauty brings your way."
+  },
+  {
+    "wish": "May the festival of lights encircle your life with joy and happiness. Success comes at your doorsteps. With these blessings, I send my warm wishes to you on Diwali."
+  },
+  {
+    "wish": "May the blessings of Goddess Lakshmi bestow you with opulence and prosperity. May you have a sparkling Deepavali."
+  },
+  {
+    "wish": "Let This Diwali Burn All Your Bad Times And Enter You In Good Times."
+  },
+  {
+    "wish": "For this, is a special time when family and friends get together, for fun. Wishing amusement and fun to cheer your days, in this Diwali festive season."
+  },
+  {
+    "wish": "Today’s the `Festival of Lights’ all over; A joyful day for minds and hearts and souls; Laughter and smiles for many days; Let there be a triumph in every way."
+  },
+  {
+    "wish": "Troubles as light as Air, Troubles as light as Air, love as deep as Ocean, Friends as Solid as Diamonds, and Success as bright as Gold… These are the wishes for you and your family on the eve of Diwali."
+  },
+  {
+    "wish": "May the festival of lights be the harbinger of joy and prosperity. As the holy occasion of Diwali is here and the atmosphere is filled with the spirit of mirth and love, here's hoping this festival of beauty brings your way, bright sparkles of contentment, that stay with you through the days ahead. Best wishes on Diwali and New year."
+  },
+  {
+    "wish": "On Diwali, wishes for every joy and prosperity. Here's hoping, that the beauty of this festival of lights, bring a world of joy, happiness and contentment to you, to last the whole year through. Happy Diwali."
+  },
+  {
+    "wish": "Sun glows for a day, Candle for an hour, Matchstick for a minute, But a wish can glow days forever, So here is my wish for glowing Diwali, glowing life!! Happy Diwali"
+  },
+  {
+    "wish": "Hope the festival of lights enlightens your home and heart with peace and serenity. Wishing you loads of joy and happiness on Diwali."
+  },
+  {
+    "wish": "May this Diwali be held close to our hearts because of its meaning endless and the spirit of which is kindness and joy of remembering old friends! Happy Diwali!"
+  },
+  {
+    "wish": "Good Health & Wealth… Bright Career… Happy Family… Long Life… These are my wishes for you this Deepawali. And I hope that all of your dreams come true early. Lots of hugs and kisses to your way. Happy Diwali."
+  },
+  {
+    "wish": "May this Diwali be the best ever Diwali for you celebrated and May it brings lots of luck for you! Happy Deepawali."
+  },
+  {
+    "wish": "This Diwali, may you be blessed with good fortune as long as Ganeshji's trunk, wealth and prosperity as big as his stomach, happiness as sweet as his ladoos and may your trouble be as small as his mouse. Happy Diwali!"
+  },
+  {
+    "wish": "A festival full of sweet childhood memories, Sky full of fireworks, Mouth full of sweets, House full of diyas and heart full of joy. Wishing you all a very happy Diwali!"
+  },
+  {
+    "wish": "May the festival of lights be the harbinger of joy and prosperity. As the holy occasion of Diwali is here and the atmosphere is filled with the spirit of mirth and love, here’s hoping this festival of beauty brings your way, bright sparkles of contentment, that stay with you through the days ahead. Best wishes on Diwali."
+  },
+  {
+    "wish": "Diwali is the time for joy and happiness. Rejoice on this blessed occasion, spread the glee to your friends and loved ones by sending them our dazzling Happy Diwali greetings."
+  },
+  {
+    "wish": "Celebrate the triumph of Goodness over evil. May this bright day bless you with health, wealth and prosperity. Happy Diwali."
+  },
+  {
+    "wish": "Hope the festival of lights enlightens your home and heart with peace and serenity. Wishing you loads of joy and happiness, on Diwali."
+  },
+  {
+    "wish": "May the Goddess of wealth and the God of Knowledge bless you with their choicest blessings on this Diwali!"
+  },
+  {
+    "wish": "May the festival of lights encircle your life with joy and happiness. Success comes at your doorsteps. With these blessings, I send my warm wishes to you on Diwali."
+  },
+  {
+    "wish": "May the blessings of Goddess Lakshmi bestow you with opulence and prosperity. May you have a sparkling Deepavali."
+  },
+  {
+    "wish": "May the warmth and splendor, that are a part of this auspicious occasion, fill your life with happiness and bright cheer, and bring to you joy and prosperity, for the whole year."
+  },
+  {
+    "wish": "Diwali is the time for joy and happiness. Rejoice on this blessed occasion, spread the glee to your friends and loved ones by sending them our dazzling Happy Diwali greetings."
+  },
+  {
+    "wish": "On Diwali, I send you wishes for a year filled with prosperity, health and lots of fun! Hope you have a happy Diwali!"
+  },
+  {
+    "wish": "As the holy occasion of Diwali is here and the atmosphere is filled with the spirit of mirth and love, here’s hoping this festival of beauty brings your way."
+  },
+  {
+    "wish": "Green Is The New Black. Have A Eco-Friendly Diwali. Happy Diwali"
+  },
+  {
+    "wish": "No Crackers, Let’S Celebrate A Pollution-Free Diwali."
+  },
+  {
+    "wish": "Minimize The Poisonous Gasses & Maximize The Happiness. Celebrate An Eco-Friendly Diwali"
   }
-}
+]
