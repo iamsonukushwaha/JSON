@@ -18,7 +18,7 @@ $ cd JSON
 ```
 3. open db.json
 
-4. Add new Wish
+4. Add new Wish at last 
 
 ```bash
 {
@@ -26,12 +26,13 @@ $ cd JSON
 }
 ```
 
-```
+
 * Do not change the format
 
 * Do not Delete other wishes
 
-```
+* Do not repeat wish
+
 5. Create Pull Request
 
 
