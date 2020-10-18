@@ -6,7 +6,15 @@
 See live Action Demo on [https://flyingsonu122.github.io/Diwali-Wishes/](https://flyingsonu122.github.io/Diwali-Wishes/)
 
 
-#### Want to Contribute
+#### Want to Contribute?
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122/JSON/pulls)
+
+> Please check issues **[here](https://github.com/flyingsonu122/JSON/issues)**!
+
+**[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended )
+
+#### Guide
 
 1. Fork this repo
 
