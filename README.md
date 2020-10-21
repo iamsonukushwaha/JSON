@@ -1,5 +1,7 @@
 ### JSON
 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/JSON.svg?logo=git&style=social)](https://github.com/flyingsonu122/JSON)  [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/pulls)
+
 > Json files hosted on a web server and used in [https://github.com/flyingsonu122/Diwali-Wishes](https://github.com/flyingsonu122/Diwali-Wishes) project
 
 
