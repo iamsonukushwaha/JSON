@@ -26,9 +26,11 @@ See live Action Demo on [https://flyingsonu122.github.io/Diwali-Wishes/](https:/
 $ git clone https://github.com/flyingsonu122/JSON.git
 $ cd JSON
 ```
-3. open db.json
+3. Create ANOTHER Branch
 
-4. Add new Wish at last 
+4. open db.json
+
+5. Add new Wish at last 
 
 ```bash
 {
@@ -43,7 +45,9 @@ $ cd JSON
 
 * Do not repeat wish
 
-5. Create Pull Request
+6. Commit your changes 
+
+7. Create Pull Request
 
 
 #### Thanks for contributing!
