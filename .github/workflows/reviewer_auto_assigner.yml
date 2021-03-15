@@ -1,8 +1,8 @@
-name: 'Auto Assign PR Reviewers'
-on: pull_request_target
+name: 'Auto Assign'
+on: pull_request
 
-jobs: 
+jobs:
   add-reviews:
     runs-on: ubuntu-latest
     steps:
-      - uses: kentaro-m/auto-assign-action@v1.1.1
+      - uses: kentaro-m/auto-assign-action@v1.1.2
