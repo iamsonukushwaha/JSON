@@ -7,13 +7,12 @@
 
 
 
-![Diwali Wishes](./images/DiwaliWishes.png)
 
-<br/>
+
 
 ##### Live Demo  [here](https://flyingsonu122.github.io/diwali-wishes/) 
 
-
+<br>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/JSON.svg?logo=git&style=social)](https://github.com/flyingsonu122/JSON)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/pulls)
 
