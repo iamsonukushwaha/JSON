@@ -1,13 +1,7 @@
 # Diwali Wishes
 
 
-
-
 ## Download as a [Android App](https://github.com/flyingsonu122/resources/releases/download/v1.0/Diwali-Wishes.apk)
-
-
-
-
 
 
 ##### Live Demo  [here](https://flyingsonu122.github.io/diwali-wishes/) 
@@ -18,7 +12,7 @@
 
 
 
-> Json files hosted here and used in [this](https://github.com/flyingsonu122/Diwali-Wishes) project
+Json files hosted here and used in [**this**](https://github.com/flyingsonu122/Diwali-Wishes) project
 
 
 
