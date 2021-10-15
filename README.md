@@ -1,8 +1,6 @@
 # Diwali Wishes
 
-
 ## Download as a [Android App](https://github.com/flyingsonu122/resources/releases/download/v1.0/Diwali-Wishes.apk)
-
 
 ##### Live Demo  [here](https://flyingsonu122.github.io/diwali-wishes/) 
 
@@ -10,15 +8,10 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/JSON.svg?logo=git&style=social)](https://github.com/flyingsonu122/JSON)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/pulls)
 
-
-
 Json files hosted here and used in [**this**](https://github.com/flyingsonu122/Diwali-Wishes) project
 
 
-
-
-
-#### Want to Contribute?
+### Want to Contribute?
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122/JSON/pulls)
 
@@ -26,7 +19,7 @@ Json files hosted here and used in [**this**](https://github.com/flyingsonu122/D
 
 **[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended )
 
-#### Guide
+### Guide
 
 1. Fork this repo
 
@@ -43,9 +36,11 @@ $ cd JSON
 5. Add new Wish at last 
 
 ```bash
+
 {
     "wish": "write your wish here between double quotes"
 }
+
 ```
 
 
@@ -60,7 +55,7 @@ $ cd JSON
 7. Create Pull Request
 
 
-#### Thanks for contributing!
+### Thank you for contributing!
 
 <br>
 
