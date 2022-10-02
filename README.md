@@ -1,24 +1,18 @@
 # Diwali Wishes
 
 
-##### Live Demo  [here](https://flyingsonu122.github.io/diwali-wishes/) 
+##### Live Demo  [flyingsonu122.github.io/diwali-wishes](https://flyingsonu122.github.io/diwali-wishes/) 
 
 <br>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/JSON.svg?logo=git&style=social)](https://github.com/flyingsonu122/JSON)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/JSON.svg?logo=git&style=social)](https://github.com/flyingsonu122/JSON)  [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/pulls)
 
 Json files hosted here and used in [**this**](https://github.com/flyingsonu122/diwali-wishes) project
 
 
 ### Want to Contribute?
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122/JSON/pulls)
 
-> Please check issues **[here](https://github.com/flyingsonu122/JSON/issues)**!
-
-**[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended )
-
-### Guide
 
 1. Fork this repo
 
