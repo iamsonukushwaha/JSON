@@ -1,6 +1,5 @@
 # Diwali Wishes
 
-## Download as  [Android App](https://github.com/flyingsonu122/resources/releases/download/v1.0/Diwali-Wishes.apk)
 
 ##### Live Demo  [here](https://flyingsonu122.github.io/diwali-wishes/) 
 
@@ -8,7 +7,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/JSON.svg?logo=git&style=social)](https://github.com/flyingsonu122/JSON)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/pulls)
 
-Json files hosted here and used in [**this**](https://github.com/flyingsonu122/Diwali-Wishes) project
+Json files hosted here and used in [**this**](https://github.com/flyingsonu122/diwali-wishes) project
 
 
 ### Want to Contribute?
@@ -56,10 +55,6 @@ $ cd JSON
 
 
 ### Thank you for contributing!
-
-<br>
-
-Get a [**domain name for free**](https://github.com/singlebucks/get_free_domain)
 
 
 <br><br>
