@@ -1,9 +1,6 @@
 # Diwali Wishes
 
 
-##### Live Demo  [flyingsonu122.github.io/diwali-wishes](https://flyingsonu122.github.io/diwali-wishes/) 
-
-
 
 
 ### Want to Contribute?
@@ -12,17 +9,11 @@
 
 1. Fork this repo
 
-2. Clone this repo
 
-```bash
-$ git clone https://github.com/flyingsonu122/JSON.git
-$ cd JSON
-```
-3. Create ANOTHER Branch
 
-4. open db.json
+2. open db.json
 
-5. Add new Wish at last 
+3. Add new Wish at last 
 
 ```bash
 
