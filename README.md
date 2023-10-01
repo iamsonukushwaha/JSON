@@ -3,11 +3,7 @@
 
 ##### Live Demo  [flyingsonu122.github.io/diwali-wishes](https://flyingsonu122.github.io/diwali-wishes/) 
 
-<br>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/JSON.svg?logo=git&style=social)](https://github.com/flyingsonu122/JSON)  [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/JSON.svg?logo=github&style=social)](https://github.com/flyingsonu122/JSON/pulls)
-
-Json files hosted here and used in [**this**](https://github.com/flyingsonu122/diwali-wishes) project
 
 
 ### Want to Contribute?
@@ -47,14 +43,14 @@ $ cd JSON
 
 7. Create Pull Request
 
-<br><br><br><br>
+<br><br>
 
 
 **&copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 <p align="center">
 	<a href="https://singlebucks.blogspot.com"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="website"></a>
